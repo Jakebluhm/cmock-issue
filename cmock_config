@@ -1,0 +1,4 @@
+:cmock:
+  :parse_dump: true
+  :treat_as:
+    'int *const': 'HELLO'
